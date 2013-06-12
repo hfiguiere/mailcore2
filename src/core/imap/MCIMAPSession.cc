@@ -1,3 +1,5 @@
+#include <cstdint>
+
 #include "MCIMAPSession.h"
 
 #include <libetpan/libetpan.h>

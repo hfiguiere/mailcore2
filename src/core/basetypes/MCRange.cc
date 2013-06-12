@@ -1,3 +1,5 @@
+#include <cstdint>
+
 #include "MCRange.h"
 
 #include "MCIndexSet.h"

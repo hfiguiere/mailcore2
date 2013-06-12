@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 MailCore. All rights reserved.
 //
 
+#include <cstdint>
+
 #include "MCIndexSet.h"
 
 #include "MCString.h"
